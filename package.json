@@ -1,0 +1,27 @@
+{
+  "name": "buzhidao",
+  "version": "1.0.0",
+  "description": "A basic Messenger bot",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "ngrok": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atoulmet/buZhiDao.git"
+  },
+  "author": "atoulmet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atoulmet/buZhiDao/issues"
+  },
+  "homepage": "https://github.com/atoulmet/buZhiDao#readme"
+}
